@@ -32,6 +32,10 @@ body {
   color: #000000;
 }
 
+.logo-light {
+  color: #ffffff;
+}
+
 .nav-list-link {
   font-weight: 500;
   font-size: 14px;
@@ -125,4 +129,24 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--secondary-text-color);
+}
+
+/* FOOTER */
+
+.address {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  /* color: #ffffff; */
+}
+
+.contacts {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  /* color: rgba(255, 255, 255, 0.6); */
 }
